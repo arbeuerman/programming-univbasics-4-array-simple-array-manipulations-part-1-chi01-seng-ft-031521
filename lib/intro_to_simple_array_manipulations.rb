@@ -11,6 +11,6 @@ def using_pop(array)
   array.pop
 end
 
-def using_pop(array)
+def using_pop_two(array)
   array.pop(2)
 end
